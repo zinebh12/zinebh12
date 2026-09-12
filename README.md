@@ -4,11 +4,11 @@
 <div align="center">
 <br/>
 
-[![portfolio](https://img.shields.io/badge/◆_PORTFOLIO-2a1f1a?style=for-the-badge&labelColor=0d0d0d)](https://sabrinayafa.vercel.app/)
-[![linkedin](https://img.shields.io/badge/◆_LINKEDIN-2a1f1a?style=for-the-badge&labelColor=0d0d0d)](https://linkedin.com/in/yafasabrina00)
-[![email](https://img.shields.io/badge/◆_EMAIL-2a1f1a?style=for-the-badge&labelColor=0d0d0d)](mailto:sabrinayafa00@gmail.com)
+[![portfolio](https://img.shields.io/badge/◆_PORTFOLIO-004700?style=for-the-badge&labelColor=004700)](https://portfolio-zineb.vercel.app/)
+[![linkedin](https://img.shields.io/badge/◆_LINKEDIN-004700?style=for-the-badge&labelColor=004700)](https://www.linkedin.com/in/zineb-bendjafer-072a11403/)
+[![email](https://img.shields.io/badge/◆_EMAIL-004700?style=for-the-badge&labelColor=004700)](mailto:bendjafer.zineb70@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=sabuuuu&label=PROFILE%20VIEWS&color=2a1f1a&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=zinebh12&label=PROFILE%20VIEWS&color=004700&style=for-the-badge" />
 
 </div>
 
@@ -26,25 +26,24 @@
 
 </div>
 
-## 🤝 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zineb-bendjafer-072a11403/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinebh12)
-
-</div>
-
 ## 📊 Stats
 
 <div align="center">
+# 📊 GitHub Stats:
 
-**GitHub Stats**
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=zinebh12&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=b5956a&icon_color=b5956a&text_color=eeeeee" width="100%"/>
+  ![github](https://github-readme-stats.shion.dev/api?username=zinebh12&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-**Streak**
-<br/>
-<img src="https://streak-stats.demolab.com?user=zinebh12&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d0d0d&ring=b5956a&fire=b5956a&currStreakLabel=b5956a&sideNums=eeeeee&currStreakNum=eeeeee&sideLabels=666666&dates=444444" width="100%"/>
+  ![github](https://streak-stats.demolab.com/?user=zinebh12&theme=dark&hide_border=true)<br/>
 
+  ![github](https://github-readme-stats.shion.dev/api/top-langs/?username=zinebh12&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![github](https://github-profile-trophy.vercel.app/?username=zinebh12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![github](https://github-contributor-stats.vercel.app/api?username=zinebh12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![github](https://komarev.com/ghpvc/?username=zinebh12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
