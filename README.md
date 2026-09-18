@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,postgres,prisma,git,github,postman,npm,vscode)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,express,postgres,prisma,git,github,postman,npm,vscode)
 
 </div>
 
