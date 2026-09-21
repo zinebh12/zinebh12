@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Zineb</h1>
-<h3 align="center">Web Developer</h3>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code" alt="Typing SVG" />
+
 <br/>
 
-[![portfolio](https://img.shields.io/badge/◆_PORTFOLIO-004700?style=for-the-badge&labelColor=004700)](https://portfolio-zineb.vercel.app/)
-[![linkedin](https://img.shields.io/badge/◆_LINKEDIN-004700?style=for-the-badge&labelColor=004700)](https://www.linkedin.com/in/zineb-bendjafer-072a11403/)
-[![email](https://img.shields.io/badge/◆_EMAIL-004700?style=for-the-badge&labelColor=004700)](mailto:bendjafer.zineb70@gmail.com)
+<a href="https://github.com/zinebh12">
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=f1f5f9" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:bendjafer.zineb70@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=zinebh12&label=PROFILE%20VIEWS&color=004700&style=for-the-badge" />
+<br/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=zinebh12&label=PROFILE%20VIEWS&color=0f172a&style=for-the-badge" />
 
 </div>
 
@@ -18,29 +25,205 @@
 
 <br/>
 
-## 🧰 Languages and Tools
+## ⟡ Tech Stack
+
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### `01` — Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+</p>
+
+`HTML` `CSS` `JavaScript`
+
+`TypeScript` `React` `Vite`
+
+`Tailwind CSS`
+
+</td>
+<td valign="top" width="33%">
+
+### `02` — Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+`Node.js` `Express.js`
+
+`REST APIs`
+
+`Asynchronous Programming`
+
+</td>
+<td valign="top" width="33%">
+
+### `03` — Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" />
+</p>
+
+`PostgreSQL` `Prisma ORM`
+
+`Supabase`
+
+`Relational Data Modeling`
+
+`JSONB`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+### `04` — Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,postman" />
+</p>
+
+`Git` `GitHub` `npm`
+
+`VS Code` `Postman`
+
+</td>
+<td valign="top" width="33%">
+
+### `05` — Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=jest,vitest" />
+</p>
+
+`Jest` `Vitest`
+
+`Unit Testing`
+
+`Integration Testing`
+
+</td>
+<td valign="top" width="33%">
+
+### `06` — Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Python`
+
+`Data Structures & Algorithms`
+
+`Backend Architecture`
+
+`Open Source`
+
+</td>
+</tr>
+</table>
+<br/>
+
+---
+
+<br/>
+
+## ⟡ Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Hunter
+
+A full-stack hunting platform built to deliver a seamless user experience with a modern frontend and a robust backend.
+
+<br/>
+
+`React` `TypeScript` `Tailwind CSS`
+
+`Node.js` `Express` `PostgreSQL` `Supabase`
+
+
+<br/>
+
+<a href="YOUR_HUNTER_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Webhook Inspector
+
+A full-stack application for receiving, inspecting, and managing webhook requests through unique endpoints.
+
+<br/>
+
+`React` `TypeScript` `Tailwind CSS`
+
+`Node.js` `Express` `PostgreSQL` `Prisma`
+
+<br/>
+
+<a href="https://github.com/zinebh12/Webhook-inspector">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## ⟡ Open Source Contributions
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🔔 VS Code Agent Bell
+
+Fixed an issue in the VS Code Agent Bell open-source project.
+
+<br/>
+
+`TypeScript` `VS Code Extension API`
+
+<br/>
+
+<a href="https://github.com/chahe-dridi/vscode-agent-bell/pull/129">
+<img src="https://img.shields.io/badge/VIEW_PULL_REQUEST-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## ⟡ GitHub Activity
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,express,postgres,prisma,git,github,postman,npm,vscode)
+<img src="https://streak-stats.demolab.com?user=zinebh12&theme=dark&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=f1f5f9&currStreakNum=f1f5f9&sideLabels=94a3b8&dates=64748b" width="49%" />
 
 </div>
 
-## 📊 Stats
+<br/>
 
-<div align="center">
-# 📊 GitHub Stats:
+---
 
-  ![github](https://github-readme-stats.shion.dev/api?username=zinebh12&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-  ![github](https://streak-stats.demolab.com/?user=zinebh12&theme=dark&hide_border=true)<br/>
-
-  ![github](https://github-readme-stats.shion.dev/api/top-langs/?username=zinebh12&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![github](https://github-profile-trophy.vercel.app/?username=zinebh12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![github](https://github-contributor-stats.vercel.app/api?username=zinebh12&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
+<br/>
