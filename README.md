@@ -152,7 +152,7 @@ A full-stack hunting platform built to deliver a seamless user experience with a
 
 <br/>
 
-<a href="YOUR_HUNTER_REPOSITORY_URL">
+<a href="https://github.com/zinebh12/Hunter">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
 </td>
