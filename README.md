@@ -50,10 +50,11 @@
 ### `02` — Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="48" />
+<img src="https://cdn.simpleicons.org/socketdotio/ffffff" height="48" />
 </p>
 
-`Node.js` `Express.js`
+`Node.js` `Express.js` `Socket.io`
 
 `REST APIs`
 
