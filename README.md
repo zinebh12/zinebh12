@@ -115,10 +115,10 @@
 ### `06` — Currently Exploring
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=go" />
 </p>
 
-`Python`
+`Go`
 
 `Data Structures & Algorithms`
 
