@@ -35,7 +35,7 @@
 ### `01` — Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind" />
 </p>
 
 `HTML` `CSS` `JavaScript`
